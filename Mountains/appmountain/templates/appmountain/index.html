@@ -1,0 +1,131 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    {{ title }}
+{% endblock title %}
+
+{% block content %}
+<!-- {% include 'appmountain/includes/nav.html' %} -->
+<!-- КАРТА ЯНДЕКС -->
+    {% if cat_selected != None %}
+        <div class="map">
+        <script type="text/javascript" charset="utf-8"
+                async src="{% if cat_selected == 0 %}
+                               {{ map_all }}
+                           {% elif cat_selected == 1 %}
+                               {{ map_best }}
+                           {% elif cat_selected == 2 %}
+                               {{ map_good }}
+                           {% else %}
+                               {{ map_bad }}
+                           {% endif %}">
+        </script>
+        </div>
+    {% endif %}
+<!-- КАРТА ЯНДЕКС -->
+    <ul class="content">
+        {% for post in posts %}
+            {% if post.is_published %}
+                <li>
+                    <div class="article-panel">
+                        <p class="first">Категория: {{ post.cat }} |
+<!--автор: {{ post.author.username|default:"неизвестен" }} | -->
+                            {% if post.green or post.blue or post.red or post.black %}
+                                сложность:
+                                {% if post.green %}
+                                    <img src="{{ media_source_difficulty }}green.jpg" alt="green" width="25" title="Учебные"> {{ post.green }}
+                                {%  endif %}
+                                {% if post.blue %}
+                                    <img src="{{ media_source_difficulty }}blue.jpg" alt="blue" width="25" title="Легкие"> {{ post.blue }}
+                                {%  endif %}
+                                {% if post.red %}
+                                    <img src="{{ media_source_difficulty }}red.jpg" alt="red" width="25" title="Продвинутые"> {{ post.red }}
+                                {%  endif %}
+                                {% if post.black %}
+                                    <img src="{{ media_source_difficulty }}black.jpg" alt="black" width="25" title="Сложные"> {{ post.black }}
+                                {%  endif %}
+                            {%  endif %}
+                        </p>
+
+
+
+                        <p class="last">
+                            {% if post.lift_baby or post.lift_bugel or post.lift_chair or post.lift_cabin %}
+                                подъемники:
+                                {% if post.lift_baby %}
+                                    <img src="{{ media_source_lifters }}baby.png" alt="lift_baby" width="25" title="Детские">: {{ post.lift_baby }}
+                                {%  endif %}
+                                {% if post.lift_bugel %}
+                                    <img src="{{ media_source_lifters }}bugel.png" alt="lift_bugel" width="25" title="Бугельные">: {{ post.lift_bugel }}
+                                {%  endif %}
+                                {% if post.lift_chair %}
+                                    <img src="{{ media_source_lifters }}chair.png" alt="lift_chair" width="25" title="Кресельные">: {{ post.lift_chair }}
+                                {%  endif %}
+                                {% if post.lift_cabin %}
+                                    <img src="{{ media_source_lifters }}cabin.png" alt="lift_cabin" width="25" title="Кабинные">: {{ post.lift_cabin }}
+                                {%  endif %}
+                                |
+                            {%  endif %}🕑: {{ post.date_updated|date:'d-m-Y' }}</p>
+                    </div>
+                    {% if post.photo %}
+                        <p><img class="img-article-left" src="{{ post.photo.url }}" alt="logo" ></p>
+                    {% endif %}
+                    <h2>{{ post.title }}</h2>
+                    {% autoescape off %}
+                        <p>{{ post.description|linebreaks|truncatewords:50 }}</p>
+                    {% endautoescape %}
+                    <div class="clear"></div>
+                    <p class="link-read-post">
+                    {% if perms.appmountain.change_mountains %}
+                        <a href="{% url 'edit_mountain' post.slug %}">редактировать</a>
+                    {% endif %}
+                    <a href="{{ post.get_absolute_url }}">Подробнее..</a></p>
+                    {% if not forloop.last %}
+                        <hr>
+                    {% endif %}
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+
+
+
+{% endblock content %}
+
+{% block navigation %}
+
+    {% if page_obj.has_other_pages %}
+        <nav class="list-pages">
+            <ul>
+                {% if page_obj.has_previous %}
+                    <li class="page-num">
+                        <a href="?page=1">&laquo;</a>
+                    </li>
+                    <li class="page-num">
+                        <a href="?page={{ page_obj.previous_page_number }}">&lt;</a>
+                    </li>
+
+                {% endif %}
+
+                {% for p in paginator.page_range %}
+                    {% if page_obj.number == p %}
+                        <li class="page-num-selected">{{ p }}</li>
+                    {% elif p >= page_obj.number|add:-2 and p <= page_obj.number|add:+2 %}
+                        <li class="page-num">
+                            <a href="?page={{ p }}">{{ p }}</a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+
+            {% if page_obj.has_next %}
+                    <li class="page-num">
+                        <a href="?page={{ page_obj.next_page_number }}">&gt;</a>
+                    </li>
+                    <li class="page-num">
+                        <a href="?page={{ page_obj.paginator.num_pages }}">&raquo;</a>
+                    </li>
+            {% endif %}
+            </ul>
+        </nav>
+    {% endif %}
+{% endblock navigation %}

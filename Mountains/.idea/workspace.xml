@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c0710ec-8799-42bc-88a9-53d3935df13e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Mountains.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Mountains.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mountains/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mountains/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mountains/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mountains/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mountains/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mountains/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/fixtures/appmountain_category.json" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/fixtures/appmountain_category.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/fixtures/appmountain_mountains.json" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/fixtures/appmountain_mountains.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/fixtures/appmountain_resort.json" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/fixtures/appmountain_resort.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/fixtures/appmountain_tagmountain.json" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/fixtures/appmountain_tagmountain.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/static/appmountain/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/static/appmountain/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/static/appmountain/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/static/appmountain/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/templates/appmountain/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/templates/appmountain/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/templates/appmountain/addmountain.html" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/templates/appmountain/addmountain.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/templates/appmountain/feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/templates/appmountain/feedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/templates/appmountain/includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/templates/appmountain/includes/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/templates/appmountain/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/templates/appmountain/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/templates/appmountain/list_categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/templates/appmountain/list_categories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/templates/appmountain/list_tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/templates/appmountain/list_tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/templates/appmountain/mountain.html" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/templates/appmountain/mountain.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/templatetags/mountains_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/templatetags/mountains_tags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmountain/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/appmountain/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/authentication.py" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/authentication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/context_processors.py" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/context_processors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/templates/appusers/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/templates/appusers/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/templates/appusers/password_change_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/templates/appusers/password_change_done.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/templates/appusers/password_change_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/templates/appusers/password_change_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/templates/appusers/password_reset_complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/templates/appusers/password_reset_complete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/templates/appusers/password_reset_confirm.html" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/templates/appusers/password_reset_confirm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/templates/appusers/password_reset_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/templates/appusers/password_reset_done.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/templates/appusers/password_reset_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/templates/appusers/password_reset_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/templates/appusers/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/templates/appusers/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/templates/appusers/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/templates/appusers/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/templates/appusers/register_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/templates/appusers/register_done.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appusers/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/appusers/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/admin/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/admin/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2yioVOcZxv8w2UfLAx2irwIBnfa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Django Server.Mountains.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/deusvult/Mountains",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Mountains" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Mountains" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Mountains.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c0710ec-8799-42bc-88a9-53d3935df13e" name="Changes" comment="" />
+      <created>1750326778152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750326778152</updated>
+      <workItem from="1750326779231" duration="282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

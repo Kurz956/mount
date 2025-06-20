@@ -1,0 +1,2955 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-02-21T06:19:29.075Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "1",
+    "object_repr": "Отлично",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-02-21T06:20:15.544Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "2",
+    "object_repr": "Похвально",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-02-21T06:20:32.198Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "3",
+    "object_repr": "Проходняк",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-02-21T06:22:34.782Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-02-21T06:23:08.708Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-02-21T06:23:32.503Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-02-21T07:01:54.584Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Стажок",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-02-21T07:02:13.888Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Белая",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-02-21T07:03:10.390Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Вишневая",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-02-21T07:03:30.828Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Губаха",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-02-21T07:03:48.158Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Абзаково",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-02-21T07:06:17.032Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "1",
+    "object_repr": "moderator",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-02-21T07:25:32.100Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "4",
+    "object_repr": "фрирайд",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-02-21T07:48:05.005Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Стажок",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-02-21T07:56:38.045Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Абзаково",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-02-21T07:59:48.140Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Губаха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-02-21T08:02:19.288Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Белая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-02-21T08:05:23.760Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Уктус",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-02-21T08:06:03.412Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-02-21T08:08:58.016Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "Теплая",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-02-21T08:13:23.883Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435\", \"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-02-21T08:15:29.561Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Вишневая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Cat\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-02-21T08:15:29.564Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "Теплая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Cat\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-02-21T08:21:23.104Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Стажок",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-02-21T08:24:49.307Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "11",
+    "object_repr": "Лиственная",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-02-21T08:25:49.839Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "12",
+    "object_repr": "Солнечная Долина",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-02-22T05:32:02.922Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Уктус",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2024-02-22T05:36:02.089Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2024-02-22T05:36:25.565Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2024-02-22T05:36:56.567Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2024-02-22T05:37:55.565Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Стажок",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2024-02-22T06:04:28.247Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0423\\u0447\\u0435\\u0431\\u043d\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2024-02-22T06:04:36.029Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0423\\u0447\\u0435\\u0431\\u043d\\u044b\\u0435\", \"\\u041b\\u0435\\u0433\\u043a\\u0438\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2024-02-22T06:21:57.037Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0423\\u0447\\u0435\\u0431\\u043d\\u044b\\u0435\", \"\\u041b\\u0435\\u0433\\u043a\\u0438\\u0435\", \"\\u041f\\u0440\\u043e\\u0434\\u0432\\u0438\\u043d\\u0443\\u0442\\u044b\\u0435\", \"\\u0421\\u043b\\u043e\\u0436\\u043d\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2024-02-22T06:47:39.699Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Уктус",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2024-02-22T06:48:26.781Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2024-02-22T06:48:53.550Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2024-02-22T06:49:20.903Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2024-02-22T06:52:01.988Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Абзаково",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2024-02-22T06:53:49.259Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2024-02-22T11:22:51.393Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\", \"\\u041f\\u0440\\u043e\\u0434\\u0432\\u0438\\u043d\\u0443\\u0442\\u044b\\u0435\", \"\\u041b\\u0438\\u043d\\u043a\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2024-02-22T11:23:07.241Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u0438\\u043d\\u043a\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2024-02-22T11:23:55.282Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u0440\\u043e\\u0434\\u0432\\u0438\\u043d\\u0443\\u0442\\u044b\\u0435\", \"\\u041b\\u0438\\u043d\\u043a\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2024-02-22T11:24:59.636Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Стажок",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u0435\\u0433\\u043a\\u0438\\u0435\", \"\\u041f\\u0440\\u043e\\u0434\\u0432\\u0438\\u043d\\u0443\\u0442\\u044b\\u0435\", \"\\u0421\\u043b\\u043e\\u0436\\u043d\\u044b\\u0435\", \"\\u041b\\u0438\\u043d\\u043a\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2024-02-22T11:26:57.175Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Белая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\", \"\\u0423\\u0447\\u0435\\u0431\\u043d\\u044b\\u0435\", \"\\u041f\\u0440\\u043e\\u0434\\u0432\\u0438\\u043d\\u0443\\u0442\\u044b\\u0435\", \"\\u041b\\u0438\\u043d\\u043a\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2024-02-22T11:28:18.337Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Вишневая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\", \"\\u041f\\u0440\\u043e\\u0434\\u0432\\u0438\\u043d\\u0443\\u0442\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2024-02-22T11:29:16.506Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Вишневая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\", \"\\u041b\\u0438\\u043d\\u043a\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2024-02-22T11:30:52.810Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Губаха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\", \"\\u0423\\u0447\\u0435\\u0431\\u043d\\u044b\\u0435\", \"\\u041b\\u0435\\u0433\\u043a\\u0438\\u0435\", \"\\u041f\\u0440\\u043e\\u0434\\u0432\\u0438\\u043d\\u0443\\u0442\\u044b\\u0435\", \"\\u0421\\u043b\\u043e\\u0436\\u043d\\u044b\\u0435\", \"\\u041b\\u0438\\u043d\\u043a\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2024-02-22T11:31:52.705Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Абзаково",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0423\\u0447\\u0435\\u0431\\u043d\\u044b\\u0435\", \"\\u041b\\u0435\\u0433\\u043a\\u0438\\u0435\", \"\\u041f\\u0440\\u043e\\u0434\\u0432\\u0438\\u043d\\u0443\\u0442\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2024-02-22T11:32:07.745Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Абзаково",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u0438\\u043d\\u043a\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2024-02-22T11:32:47.837Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Уктус",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0423\\u0447\\u0435\\u0431\\u043d\\u044b\\u0435\", \"\\u041b\\u0435\\u0433\\u043a\\u0438\\u0435\", \"\\u041f\\u0440\\u043e\\u0434\\u0432\\u0438\\u043d\\u0443\\u0442\\u044b\\u0435\", \"\\u041b\\u0438\\u043d\\u043a\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2024-02-22T11:34:14.554Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "Теплая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\", \"\\u0423\\u0447\\u0435\\u0431\\u043d\\u044b\\u0435\", \"\\u041b\\u0435\\u0433\\u043a\\u0438\\u0435\", \"\\u041f\\u0440\\u043e\\u0434\\u0432\\u0438\\u043d\\u0443\\u0442\\u044b\\u0435\", \"\\u0421\\u043b\\u043e\\u0436\\u043d\\u044b\\u0435\", \"\\u041b\\u0438\\u043d\\u043a\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2024-02-22T11:37:55.686Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "11",
+    "object_repr": "Лиственная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\", \"\\u0423\\u0447\\u0435\\u0431\\u043d\\u044b\\u0435\", \"\\u041b\\u0435\\u0433\\u043a\\u0438\\u0435\", \"\\u041b\\u0438\\u043d\\u043a\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2024-02-22T11:40:09.083Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "12",
+    "object_repr": "Солнечная Долина",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u0433\\u043e\\u0434\\u0430\", \"\\u0423\\u0447\\u0435\\u0431\\u043d\\u044b\\u0435\", \"\\u041b\\u0435\\u0433\\u043a\\u0438\\u0435\", \"\\u041f\\u0440\\u043e\\u0434\\u0432\\u0438\\u043d\\u0443\\u0442\\u044b\\u0435\", \"\\u0421\\u043b\\u043e\\u0436\\u043d\\u044b\\u0435\", \"\\u041b\\u0438\\u043d\\u043a\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2024-02-22T11:44:44.030Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Уктус",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2024-02-26T05:49:49.035Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Солнечная долина",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2024-02-27T06:27:09.744Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0411\\u0443\\u0433\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2024-02-27T06:36:50.414Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Абзаково",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u0435\\u0442\\u0441\\u043a\\u0438\\u0435\", \"\\u0411\\u0443\\u0433\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\", \"\\u041a\\u0440\\u0435\\u0441\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\", \"\\u041a\\u0430\\u0431\\u0438\\u043d\\u043d\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2024-02-27T06:41:43.902Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Абзаково",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u0430\\u0431\\u0438\\u043d\\u043d\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2024-02-27T06:51:11.348Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u0435\\u0442\\u0441\\u043a\\u0438\\u0435\", \"\\u0411\\u0443\\u0433\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\", \"\\u041a\\u0440\\u0435\\u0441\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2024-02-27T07:37:12.889Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2024-02-27T07:46:47.665Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0426\\u0435\\u043d\\u044b\", \"\\u0422\\u0440\\u0430\\u0441\\u0441\\u044b\", \"\\u0413\\u0440\\u0430\\u0444\\u0438\\u043a \\u0420\\u0430\\u0431\\u043e\\u0442\\u044b\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2024-02-27T07:47:52.411Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2024-02-27T08:31:24.109Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0440\\u0430\\u0441\\u0441\\u044b\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2024-02-27T08:34:06.086Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0440\\u0430\\u0441\\u0441\\u044b\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2024-02-27T08:42:23.378Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0435\\u0437\\u043e\\u043d\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2024-02-27T09:00:27.679Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0413\\u0440\\u0430\\u0444\\u0438\\u043a \\u0420\\u0430\\u0431\\u043e\\u0442\\u044b\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2024-02-27T09:13:05.051Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0413\\u0440\\u0430\\u0444\\u0438\\u043a \\u0420\\u0430\\u0431\\u043e\\u0442\\u044b\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2024-02-27T09:13:52.598Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Resort\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2024-02-27T10:46:19.751Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Ежовая",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2024-02-27T10:46:27.929Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Resort\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2024-02-27T10:49:30.287Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2024-02-27T10:50:01.791Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Абзаково",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2024-02-27T10:55:44.344Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Абзаково",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0426\\u0435\\u043d\\u044b\", \"\\u0422\\u0440\\u0430\\u0441\\u0441\\u044b\", \"\\u0413\\u0440\\u0430\\u0444\\u0438\\u043a \\u0420\\u0430\\u0431\\u043e\\u0442\\u044b\", \"\\u0421\\u0435\\u0437\\u043e\\u043d\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\", \"Resort\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2024-02-27T11:00:31.316Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Абзаково",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0440\\u0430\\u0441\\u0441\\u044b\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2024-02-27T17:35:16.290Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435\", \"\\u0426\\u0435\\u043d\\u044b\", \"\\u0422\\u0440\\u0430\\u0441\\u0441\\u044b\", \"\\u0413\\u0440\\u0430\\u0444\\u0438\\u043a \\u0420\\u0430\\u0431\\u043e\\u0442\\u044b\", \"\\u0421\\u0435\\u0437\\u043e\\u043d\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2024-02-27T17:38:22.311Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0426\\u0435\\u043d\\u044b\", \"\\u0422\\u0440\\u0430\\u0441\\u0441\\u044b\", \"\\u0413\\u0440\\u0430\\u0444\\u0438\\u043a \\u0420\\u0430\\u0431\\u043e\\u0442\\u044b\", \"\\u0421\\u0435\\u0437\\u043e\\u043d\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\", \"\\u0414\\u0435\\u0442\\u0441\\u043a\\u0438\\u0435\", \"\\u0411\\u0443\\u0433\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2024-02-27T17:40:06.056Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Стажок",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0426\\u0435\\u043d\\u044b\", \"\\u0411\\u0443\\u0433\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2024-02-27T17:47:31.405Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "11",
+    "object_repr": "Лиственная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0426\\u0435\\u043d\\u044b\", \"\\u0422\\u0440\\u0430\\u0441\\u0441\\u044b\", \"\\u0413\\u0440\\u0430\\u0444\\u0438\\u043a \\u0420\\u0430\\u0431\\u043e\\u0442\\u044b\", \"\\u0421\\u0435\\u0437\\u043e\\u043d\", \"\\u0411\\u0443\\u0433\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2024-02-27T17:49:58.906Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Вишневая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435\", \"\\u0426\\u0435\\u043d\\u044b\", \"\\u0422\\u0440\\u0430\\u0441\\u0441\\u044b\", \"\\u0413\\u0440\\u0430\\u0444\\u0438\\u043a \\u0420\\u0430\\u0431\\u043e\\u0442\\u044b\", \"\\u0421\\u0435\\u0437\\u043e\\u043d\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\", \"\\u0411\\u0443\\u0433\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2024-02-27T17:53:31.353Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Белая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0426\\u0435\\u043d\\u044b\", \"\\u0422\\u0440\\u0430\\u0441\\u0441\\u044b\", \"\\u0413\\u0440\\u0430\\u0444\\u0438\\u043a \\u0420\\u0430\\u0431\\u043e\\u0442\\u044b\", \"\\u0421\\u0435\\u0437\\u043e\\u043d\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\", \"\\u0414\\u0435\\u0442\\u0441\\u043a\\u0438\\u0435\", \"\\u0411\\u0443\\u0433\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\", \"\\u041a\\u0440\\u0435\\u0441\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2024-02-27T17:55:19.293Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "Теплая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0440\\u0430\\u0441\\u0441\\u044b\", \"\\u0413\\u0440\\u0430\\u0444\\u0438\\u043a \\u0420\\u0430\\u0431\\u043e\\u0442\\u044b\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\", \"\\u0411\\u0443\\u0433\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2024-02-27T17:57:25.656Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Уктус",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0426\\u0435\\u043d\\u044b\", \"\\u0422\\u0440\\u0430\\u0441\\u0441\\u044b\", \"\\u0421\\u0435\\u0437\\u043e\\u043d\", \"\\u041f\\u0440\\u043e\\u0434\\u0432\\u0438\\u043d\\u0443\\u0442\\u044b\\u0435\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\", \"\\u0411\\u0443\\u0433\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\", \"\\u041a\\u0440\\u0435\\u0441\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2024-02-27T17:59:30.134Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "12",
+    "object_repr": "Солнечная Долина",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0426\\u0435\\u043d\\u044b\", \"\\u0422\\u0440\\u0430\\u0441\\u0441\\u044b\", \"\\u0413\\u0440\\u0430\\u0444\\u0438\\u043a \\u0420\\u0430\\u0431\\u043e\\u0442\\u044b\", \"\\u0421\\u0435\\u0437\\u043e\\u043d\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\", \"\\u0411\\u0443\\u0433\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\", \"\\u041a\\u0440\\u0435\\u0441\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\", \"Resort\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2024-02-27T18:01:58.765Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Губаха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0426\\u0435\\u043d\\u044b\", \"\\u0422\\u0440\\u0430\\u0441\\u0441\\u044b\", \"\\u0413\\u0440\\u0430\\u0444\\u0438\\u043a \\u0420\\u0430\\u0431\\u043e\\u0442\\u044b\", \"\\u0421\\u0435\\u0437\\u043e\\u043d\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\", \"\\u0411\\u0443\\u0433\\u0435\\u043b\\u044c\\u043d\\u044b\\u0435\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2024-02-28T07:57:37.797Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2024-02-28T07:58:20.579Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2024-02-28T08:05:05.439Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2024-02-28T08:12:28.080Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2024-02-28T08:12:50.176Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2024-02-28T08:14:34.653Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2024-02-28T08:22:14.720Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2024-02-28T08:25:13.482Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2024-02-28T10:54:14.028Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Абзаково",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2024-02-28T10:54:38.038Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Абзаково",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2024-02-28T11:43:24.427Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2024-02-28T11:47:03.608Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2024-02-28T11:49:11.412Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2024-02-28T11:49:50.369Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Стажок",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2024-02-28T11:51:15.257Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Белая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2024-02-28T11:51:33.365Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Вишневая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2024-02-28T11:52:50.344Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Губаха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2024-02-28T11:53:25.068Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Абзаково",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2024-02-28T11:53:55.462Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Уктус",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2024-02-28T11:54:19.163Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "Теплая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2024-02-28T11:54:36.163Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "11",
+    "object_repr": "Лиственная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2024-02-28T11:55:03.229Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "12",
+    "object_repr": "Солнечная Долина",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\", \"\\u0421\\u0445\\u0435\\u043c\\u0430 \\u0442\\u0440\\u0430\\u0441\\u0441\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2024-02-28T15:36:36.056Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Уктус",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2024-02-28T15:37:38.861Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2024-02-28T15:38:33.008Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2024-02-28T15:42:13.683Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2024-02-28T15:43:37.045Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2024-02-28T15:46:29.559Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 114,
+  "fields": {
+    "action_time": "2024-02-28T15:48:05.691Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 115,
+  "fields": {
+    "action_time": "2024-02-28T15:48:21.862Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 116,
+  "fields": {
+    "action_time": "2024-02-28T15:49:56.282Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 117,
+  "fields": {
+    "action_time": "2024-02-28T15:51:44.312Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 118,
+  "fields": {
+    "action_time": "2024-02-28T15:51:49.053Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 119,
+  "fields": {
+    "action_time": "2024-02-28T15:54:35.879Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Белая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 120,
+  "fields": {
+    "action_time": "2024-02-28T15:55:26.546Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Стажок",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 121,
+  "fields": {
+    "action_time": "2024-02-28T15:56:14.305Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "11",
+    "object_repr": "Лиственная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 122,
+  "fields": {
+    "action_time": "2024-02-28T15:56:53.820Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "12",
+    "object_repr": "Солнечная Долина",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 123,
+  "fields": {
+    "action_time": "2024-02-28T15:57:44.392Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Абзаково",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 124,
+  "fields": {
+    "action_time": "2024-02-28T15:58:30.895Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Вишневая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 125,
+  "fields": {
+    "action_time": "2024-02-28T15:59:27.351Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Губаха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 126,
+  "fields": {
+    "action_time": "2024-02-28T16:00:12.706Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "Теплая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 127,
+  "fields": {
+    "action_time": "2024-02-28T16:25:04.777Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Уктус",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 128,
+  "fields": {
+    "action_time": "2024-02-28T16:26:07.492Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Пильная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 129,
+  "fields": {
+    "action_time": "2024-02-28T17:18:52.644Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Волчиха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 130,
+  "fields": {
+    "action_time": "2024-02-28T17:20:45.861Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "Теплая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 131,
+  "fields": {
+    "action_time": "2024-02-28T17:21:29.748Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Губаха",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 132,
+  "fields": {
+    "action_time": "2024-02-28T17:22:37.667Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Вишневая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 133,
+  "fields": {
+    "action_time": "2024-02-28T17:23:50.629Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Абзаково",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 134,
+  "fields": {
+    "action_time": "2024-02-28T17:24:50.109Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "12",
+    "object_repr": "Солнечная Долина",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 135,
+  "fields": {
+    "action_time": "2024-02-28T17:25:53.604Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "11",
+    "object_repr": "Лиственная",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 136,
+  "fields": {
+    "action_time": "2024-02-28T17:26:49.715Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Белая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 137,
+  "fields": {
+    "action_time": "2024-02-28T17:28:25.036Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Ежовая",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 138,
+  "fields": {
+    "action_time": "2024-02-28T17:30:07.672Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Стажок",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041b\\u043e\\u043a\\u0430\\u0446\\u0438\\u044f\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 4,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 4,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 4,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 4,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 5,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 5,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 5,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 5,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add Рейтинг",
+    "content_type": 6,
+    "codename": "add_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change Рейтинг",
+    "content_type": 6,
+    "codename": "change_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete Рейтинг",
+    "content_type": 6,
+    "codename": "delete_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view Рейтинг",
+    "content_type": 6,
+    "codename": "view_category"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add resort",
+    "content_type": 7,
+    "codename": "add_resort"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change resort",
+    "content_type": 7,
+    "codename": "change_resort"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete resort",
+    "content_type": 7,
+    "codename": "delete_resort"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view resort",
+    "content_type": 7,
+    "codename": "view_resort"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add tag mountain",
+    "content_type": 8,
+    "codename": "add_tagmountain"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change tag mountain",
+    "content_type": 8,
+    "codename": "change_tagmountain"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete tag mountain",
+    "content_type": 8,
+    "codename": "delete_tagmountain"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view tag mountain",
+    "content_type": 8,
+    "codename": "view_tagmountain"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add upload files",
+    "content_type": 9,
+    "codename": "add_uploadfiles"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change upload files",
+    "content_type": 9,
+    "codename": "change_uploadfiles"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete upload files",
+    "content_type": 9,
+    "codename": "delete_uploadfiles"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view upload files",
+    "content_type": 9,
+    "codename": "view_uploadfiles"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add Гора",
+    "content_type": 10,
+    "codename": "add_mountains"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change Гора",
+    "content_type": 10,
+    "codename": "change_mountains"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete Гора",
+    "content_type": 10,
+    "codename": "delete_mountains"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view Гора",
+    "content_type": 10,
+    "codename": "view_mountains"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 11,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 11,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 11,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 11,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.group",
+  "pk": 1,
+  "fields": {
+    "name": "moderator",
+    "permissions": [
+      37,
+      38,
+      39,
+      40
+    ]
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "appmountain",
+    "model": "category"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "appmountain",
+    "model": "resort"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "appmountain",
+    "model": "tagmountain"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "appmountain",
+    "model": "uploadfiles"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "appmountain",
+    "model": "mountains"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "appusers",
+    "model": "user"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "jumsz3aqt45gp0s0th55j2g9aefxhisx",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSFAeQwu3fsNZBhAqgaS0q6M_65NutDtPefcFwu4rTVsIy9hTuzMJDv9bhHpkdsO0h3brXPqbV3myHeFH3Twa0_5eTncv4OKo37rSSRysgCgAx8jTdJqkOBtKlmZLMhq49FMGoUxjoRyoGWhpImUzYXY-wPRazeu:1rkJ4j:tenzu9DJxvIWeIam2JR9KhgiHjz2jG1rK3UNfmkWc9E",
+    "expire_date": "2024-03-27T07:30:57.608Z"
+  }
+},
+{
+  "model": "appmountain.mountains",
+  "pk": 1,
+  "fields": {
+    "title": "Пильная",
+    "slug": "pilnaya",
+    "description": "5 горнолыжных трасс, общей протяженностью 3000 м с перепадами высот 100 м различных уровней сложности, трасса для фрирайда, тюбингов и снегоходов.\r\n\r\n2 подъемника бугельного типа. Подъемники оборудованы системой электронного доступа. Трассы оборудованы системами искусственного освещения, что позволяет кататься в вечернее время.",
+    "prices": "prices",
+    "tracks": "5 горнолыжных трасс, общей протяженностью 2800 м с перепадами высот 100 м с различными уровнями сложности. Максимальная длина трассы — 740 м. Между склонами, прямо посреди леса, проложено несколько узких лесных трасс для любителей фрирайда.\r\n\r\nЗа склонами ежедневно следят с использованием ратраков, а также имеется система искусственного снегообразования.\r\n\r\nСноу-парк «Горы Пильной» состоит из более чем десятка фигур, он доступен весь сезон и используется для тренировок местной школой сноубординга.\r\n\r\nВесь сезон открыта и трасса для «ватрушек» длиной 150 м.",
+    "work_time": "Вторник — пятница: 17:00—21:30\r\nСуббота — воскресенье: 09:00—21:00",
+    "season_time": "Сезон стартует в ноябре, когда мороз не дает таять выпавшему снегу, и завершается в апреле, где складывается обратная ситуация. Средняя температура воздуха с декабря по февраль колеблется от -11 °C до -14 °C.",
+    "is_published": 1,
+    "date_created": "2024-02-21T06:22:34.777Z",
+    "date_updated": "2024-02-28T16:26:07.486Z",
+    "location": "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Ab7527622bdd5ab37c20ca3bd1446561523164f4c3cd9448a1b12feffac3aae66&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true",
+    "photo": "photos/mounts/pilnaya/пильная.png",
+    "tracks_img": "photos/mounts/pilnaya/scheme_u9xwlUG.png",
+    "weather": "https://forecast7.com/ru/56d9059d95/pervouralsk/",
+    "red": 0,
+    "green": 1,
+    "black": 0,
+    "blue": 0,
+    "lift_baby": 0,
+    "lift_bugel": 2,
+    "lift_chair": 0,
+    "lift_cabin": 0,
+    "link": "https://pilnaya.ru",
+    "cat": 3,
+    "resort": null,
+    "author": null,
+    "tags": [
+      6
+    ]
+  }
+},
+{
+  "model": "appmountain.mountains",
+  "pk": 2,
+  "fields": {
+    "title": "Волчиха",
+    "slug": "volchiha",
+    "description": "Гора Волчиха расположена в 5 км от г. Ревды и в 7 км от г. Первоуральска.\r\nЭто самая высокая гора (526 м) в окрестностях Екатеринбурга,\r\nкоторый находится от Волчихи на расстоянии 40 км.",
+    "prices": "prices",
+    "tracks": "4 трассы различной сложности, длиной от 600 до 1200 метров. Подходят для начинающих.\r\n\r\nПодходит как новичкам, так и хорошо подготовленным сноубодистам и лыжникам. Есть сноупарк и аэроподушка.\r\n\r\nВ вечернее время трассы отлично освещаются.\r\n\r\nПоскольку горнолыжный комплекс использует систему искусственного оснежения, сезон катания начинается в декабре и заканчивается в апреле.",
+    "work_time": "Вторник — пятница: 14:00—21:00\r\nСуббота — воскресенье: 9:00—21:00",
+    "season_time": "Сезон длится с середины ноября до середины апреля. Средняя температура зимних месяцев от -12 °C до -15 °C. Наличие системы искусственного оснежения увеличивает горнолыжный сезон на несколько недель.",
+    "is_published": 1,
+    "date_created": "2024-02-21T06:23:08.705Z",
+    "date_updated": "2024-02-28T17:18:52.637Z",
+    "location": "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A4edbcc0bf81850b1b7f4a98cba0601f3e6ea8c1de2f698c500fe9b53d4781ef2&amp;width=100%25&amp;height=550&amp;lang=ru_RU&amp;scroll=true",
+    "photo": "photos/mounts/volchiha/волчиха.png",
+    "tracks_img": "photos/mounts/volchiha/изображение_2024-02-27_223820475.png",
+    "weather": "https://forecast7.com/ru/56d8259d90/revda/",
+    "red": 1,
+    "green": 1,
+    "black": 0,
+    "blue": 2,
+    "lift_baby": 1,
+    "lift_bugel": 4,
+    "lift_chair": 0,
+    "lift_cabin": 0,
+    "link": "https://volchiha.ru",
+    "cat": 2,
+    "resort": null,
+    "author": null,
+    "tags": [
+      2,
+      3,
+      4,
+      6
+    ]
+  }
+},
+{
+  "model": "appmountain.mountains",
+  "pk": 3,
+  "fields": {
+    "title": "Ежовая",
+    "slug": "ezhovaya",
+    "description": "Гора Ежовая расположена на восток от Главного Уральского хребта, в 8 км от города Кировграда. Является одной из вершин так называемых Веселых гор, на территории которых по соседству расположен «Висимский заповедник».\r\n\r\nВысота горы Ежовая — 556,8 метра.\r\nСравнительная близость к Екатеринбургу, удобный подъезд, высокий уровень сервиса сделали этот горнолыжный центр одним из самых популярных на Среднем Урале. Высота склонов — 550 метров, перепад высот — 300 м. Гостей курорта и любителей зимнего активного отдыха ожидает катание на горных лыжах и сноуборде, множесто других развлечений.\r\n\r\nКомплекс включает горнолыжные трассы, сноупарк, гостиницы, парк развлечений для детей «Мультиеж», кафе и рестораны. Возле бара «Орлиное гнездо» находится смотровая площадка, с которой открывается замечательный вид на Кировград, Верхний Тагил и другие окрестные горы.",
+    "prices": "Цена актуальна на: 27.02.24\r\nбла-бла",
+    "tracks": "5 трасс длиной более 1500 м, максимальный перепад высот 300 м, детская трасса, сноу-парк.\r\n\r\nРельеф разнообразный: крутые склоны чередуются с пологими. Трассы разного уровня сложности, есть освещенная трасса. Пункт проката горнолыжного снаряжения (горнолыжное снаряжение, сноуборды, финские сани, снегоходы), школа инструкторов горнолыжных видов спорта.\r\n\r\nЕсть ровные и гладкие трассы, которые идеально подойдут для начинающих лыжников и сноубордистов.\r\n\r\nСноуборд-парк с хаф-пайпом. Есть трассы с искусственным освещением.",
+    "work_time": "Пн-Чт. 12:00 до 18:00\r\nПТ. 10:00 до 20:00\r\nСб 10:00 до 21:00\r\nВс 10:00 до 20:00\r\n\r\nПрокат:\r\nвремя работы",
+    "season_time": "Сезон на Ежовой длится с середины ноября по начало апреля. Климат здесь умеренно-холодный с большим количеством осадков, поэтому снегом горные склоны покрываются быстро. В зимние месяцы средняя температура составляет -16 градусов по Цельсию. Трассы ГК «Ежовая гора» проложены среди лесного массива, что защищает склоны от ветра.",
+    "is_published": 1,
+    "date_created": "2024-02-21T06:23:32.499Z",
+    "date_updated": "2024-02-28T17:28:25.030Z",
+    "location": "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A34578495b6f85ae56d6284f13aa83fb19b2fa3b9e1d9a2fe4ef7b030f3cad7d6&amp;width=100%25&amp;height=640&amp;lang=ru_RU&amp;scroll=true",
+    "photo": "photos/mounts/ezhovaya/ежовая.png",
+    "tracks_img": "photos/mounts/ezhovaya/изображение_2024-02-27_124750136.png",
+    "weather": "https://forecast7.com/ru/57d4360d06/kirovgrad/",
+    "red": 3,
+    "green": 1,
+    "black": 1,
+    "blue": 2,
+    "lift_baby": 1,
+    "lift_bugel": 7,
+    "lift_chair": 1,
+    "lift_cabin": 0,
+    "link": "https://ezhovaya.ural.ski",
+    "cat": 1,
+    "resort": 2,
+    "author": null,
+    "tags": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      10,
+      11
+    ]
+  }
+},
+{
+  "model": "appmountain.mountains",
+  "pk": 4,
+  "fields": {
+    "title": "Стажок",
+    "slug": "stazhok",
+    "description": "«Стожок» — удивительный уголок нашей родной природы рядом с водной жемчужиной — озером Таватуй. Одна из самых высоких и красивых уральских гор находится недалеко от поселка Таватуй, на 49 километре нижнетагильского тракта.\r\n\r\nНастоящая зимняя сказка начинается уже с живописной дороги по заснеженному лесу. После вам откроется захватывающий дух зимний пейзаж — гора «Стожок», оборудованная в горнолыжный комплекс.\r\n\r\nГости курорта могут покататься на горных лыжах или сноуборде на нескольких трассах с уклоном до 30 градусов и перепадом высот в 160 м. В 7 км от комплекса расположен санаторий-профилакторий «Таватуй», а на территории комплекса имеется сервис-центр комплекса, где работает кафе, прокат современного горнолыжного оборудования, беговых лыж.",
+    "prices": "prices",
+    "tracks": "",
+    "work_time": "",
+    "season_time": "",
+    "is_published": 1,
+    "date_created": "2024-02-21T07:01:54.579Z",
+    "date_updated": "2024-02-28T17:30:07.667Z",
+    "location": "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A1721412d170aad5c0518ecb6898b87b092fa19fad51f68d706a6f6c49a4ec92c&amp;width=100%25&amp;height=640&amp;lang=ru_RU&amp;scroll=true",
+    "photo": "photos/mounts/stazhok/стажок.png",
+    "tracks_img": "",
+    "weather": "https://forecast7.com/en/56d9160d80/beryozovsky/",
+    "red": 1,
+    "green": 0,
+    "black": 1,
+    "blue": 1,
+    "lift_baby": 0,
+    "lift_bugel": 1,
+    "lift_chair": 0,
+    "lift_cabin": 0,
+    "link": "https://vk.com/stozhok",
+    "cat": 3,
+    "resort": null,
+    "author": null,
+    "tags": [
+      1,
+      3,
+      4,
+      6,
+      7,
+      9,
+      11
+    ]
+  }
+},
+{
+  "model": "appmountain.mountains",
+  "pk": 5,
+  "fields": {
+    "title": "Белая",
+    "slug": "belaya",
+    "description": "Гора Белая является одной из красивейших на Среднем Урале, располагается в 37 км от города Нижний Тагил. И Белой ее нарекли не случайно: склоны горы с осени до весны покрыты снегом. Взойдя на гору, можно невооруженным глазом разглядеть города Свердловской области: Невьянск, Кировград, Верхний Тагил и даже Екатеринбург.\r\n\r\nГора Белая как горнолыжный центр действует с 1963 года. В 1977 году на горе Белая состоялись Всесоюзные сельские игры. Затем, в 1980 году Белая принимала спортсменов Чемпионата Центрального совета сельских ДСО. Уже те, первые крупные соревнования предсказали горе Белой большое спортивное будущее. Что и подтвердило время.\r\n\r\nВ 2003 году было принято решение Постановлением Правительства Свердловской области о строительстве горнолыжного комплекса на горе Белой. \r\n\r\nЛетом 2005 года был заложен первый камень нового комплекса. К зимнему сезону 2005-2006 года уже были запущены в эксплуатацию два бугельных подъемника.",
+    "prices": "ЦЕНЫ",
+    "tracks": "5 трасс общей протяженностью почти 6 км, перепад высот составляет 250 м, максимальная длина трассы — 1900 м. По уровню сложности трассы зеленые, синие и красные.\r\n\r\nЕсть учебная трасса (длинная и очень пологая). Трасса 2А — для горнолыжников, широкая, 890 м. Трасса 2В интересна для сноубордистов (на ней много неровностей, горок). Трасса 1С, длина 1514 м. Учебная и 2А освещаются. 2В — не освещается.\r\n\r\nТрассы подойдут для любого горнолыжника. Спуск из трамплинов и резких поворотов понравится любителям экстрима, опытные спортсмены останутся довольными от катания по узкому спуску с резкими перепадами, а широкая и спокойная трасса отлично подойдет новичкам.\r\n\r\nЕсть 2 трассы для беговых лыж.\r\n\r\nКроме горнолыжных трасс, на Белой есть маршрут внетрассового катания «Чегет». Работает прокат снаряжения, инструкторы.",
+    "work_time": "Пн-Вскр:  10:00 — 22:00",
+    "season_time": "Особенностью горы Белой является обилие снега, покрывающего ее склоны с осени до середины весны. Это позволяет открывать сезон уже в ноябре, а закрывать лишь в апреле, с наступлением тепла. Умеренно-континентальный климат благоприятствует для занятий зимним спортом, температура держится возле отметки -14 °C и лишь периодически возникающие ветра могут доставить горнолыжникам и сноубордистам дискомфорт.",
+    "is_published": 1,
+    "date_created": "2024-02-21T07:02:13.884Z",
+    "date_updated": "2024-02-28T17:26:49.708Z",
+    "location": "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A0f1e3ab9909069b2a8e85bb273ce8eaed37ab60f405c84744dd7379c41afe845&amp;width=100%25&amp;height=640&amp;lang=ru_RU&amp;scroll=true",
+    "photo": "photos/mounts/belaya/белая.png",
+    "tracks_img": "photos/mounts/belaya/изображение_2024-02-27_225330435.png",
+    "weather": "https://forecast7.com/en/57d6659d66/uralets/",
+    "red": 4,
+    "green": 1,
+    "black": 0,
+    "blue": 0,
+    "lift_baby": 1,
+    "lift_bugel": 2,
+    "lift_chair": 1,
+    "lift_cabin": 0,
+    "link": "https://www.gorabelaya.ru/company/karta-kompleksa-i-skhema-trass/",
+    "cat": 1,
+    "resort": null,
+    "author": null,
+    "tags": [
+      1,
+      3,
+      4,
+      7,
+      10
+    ]
+  }
+},
+{
+  "model": "appmountain.mountains",
+  "pk": 6,
+  "fields": {
+    "title": "Вишневая",
+    "slug": "vishnevaya",
+    "description": "Расположенная у города Вишневогорск, на восточном склоне Уральского хребта, гора Вишневая открывает со своих трасс великолепный вид на Зауральскую равнину и систему Каслинских озер.\r\n\r\nВысота горы Вишневая — 580 м.\r\nГорнолыжный центр с поэтическим названием «Гора Вишнёвая» позиционирует себя как лучшее место для внетрассового катания на Урале. Для фрирайдеров и опытных спортсменов здесь и правда настоящее раздолье — восхитительные безлесные спуски, живописные и просторные лужайки и поляны, покрытые лиственными и хвойными лесами.\r\n\r\nТакже гостей курорта, любителей горных лыж и сноуборда, ждут несколько трасс различного уровня сложности. Гора «Вишня», покрытая смешанными лесами светлохвойных и лиственных пород, чередующихся с великолепными полянами и сенокосами, одно из самых лучших мест для внетрассового катания на Урале.",
+    "prices": "ЦЕНЫ",
+    "tracks": "Гора Вишневая располагает пятью различными трассами: 2 основные трассы шириной порядка 30 метров и длиной 1100-1200 метров имеют перепад около 200 метров.\r\n\r\nКроме них, слева и справа, имеются две более узкие трассы, сливающиеся в конце с основными. С вершины горы трассы начинаются крутыми спадами до 30 (местами — 35) градусов, где можно развить скорость до 70-80 км/ч.\r\n\r\nА с верхней станции подъемника любители катания вне трассы и сноубордисты могут по лыжням, уходящим вправо и влево, попадать к началу восхитительных спусков по лужайкам и полянам, завершающимся на главных трассах.\r\n\r\nПоднявшись на верхнюю станцию подъемника и пройдя вправо около 1,5 км, вы окажетесь на склоне горы Кобылихи. Здесь нет леса, крутизна склона достигает 25 градусов, а длина спуска около 500 м — характеристики, позволяющие Уральским горам посоперничать даже с французскими Альпами. Никаких трасс на этом склоне не проложено, только «целина» и простор, так любимые фрирайдерами.\r\n\r\nЗа состоянием трасс постоянно следят из-за того, что они очень быстро становятся бугристыми. Вечером трассы отлично освещаются, а два бугельных подъемника доставляют отдыхающих к началу спусков. Горнолыжный курорт «Вишневая гора» знаменит своим ландшафтом. За один спуск можно проехать через лес, поляну и выехать на гору Кобылиха.",
+    "work_time": "сб-вскр: 10:00 - 16:00.\r\nКассы комплекса: 10:00 - 15:30.",
+    "season_time": "Сезон длится с ноября по апрель, даты открытия и закрытия базы полностью зависят от погодных условий, поскольку снегообразующий установок на горе Вишневой нет. В большинстве случаев, серьезные снегопады приходят в конце ноября, после чего температура опускается до -15 °C и снег держится до начала апреля.",
+    "is_published": 1,
+    "date_created": "2024-02-21T07:03:10.386Z",
+    "date_updated": "2024-02-28T17:22:37.662Z",
+    "location": "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Adf20081e49b02f081133867d7517f0a277af5b297199f36dd46572a7acc5b3b9&amp;width=100%25&amp;height=640&amp;lang=ru_RU&amp;scroll=true",
+    "photo": "photos/mounts/vishnevaya/вишня.jpg",
+    "tracks_img": "photos/mounts/vishnevaya/изображение_2024-02-27_224809831.png",
+    "weather": "https://forecast7.com/en/56d0060d66/vishnevogorsk/",
+    "red": 4,
+    "green": 0,
+    "black": 0,
+    "blue": 0,
+    "lift_baby": 0,
+    "lift_bugel": 3,
+    "lift_chair": 0,
+    "lift_cabin": 0,
+    "link": "https://vishnevayagora.ru/#top",
+    "cat": 2,
+    "resort": null,
+    "author": null,
+    "tags": [
+      1,
+      3,
+      7,
+      10
+    ]
+  }
+},
+{
+  "model": "appmountain.mountains",
+  "pk": 7,
+  "fields": {
+    "title": "Губаха",
+    "slug": "gubaha",
+    "description": "Курорт расположился в Пермском крае на склонах горы Крестовая Северного Урала. Является крупнейшим в регионе. Цены тут не кусаются, что делает курорт очень популярным не только для местных жителей, но и гостей с других регионов.",
+    "prices": "PRICES",
+    "tracks": "Горнолыжные трассы проложены по склонам горы Крестовая. Протяженность трасс центра превышает 10 км, а перепад высот составляет более 300 м.\r\n\r\nДля катания в Губахе открыто 17 трасс протяженностью от 500 до 2500 м: 3 зеленые, 2 синие, 7 красных и 5 черных трасс. Протяженность самой длинной трассы составляет 2600 м. Есть сноупарк и парка для занятий фрирайдом.\r\n\r\nЕсть трассы, идеальные для новичков: пологие и длинные.",
+    "work_time": "Понедельник\t- Пятница 11:00 — 18:00\r\nСуббота\t10:00 — 21:00\r\nВоскресенье 10:00 — 18:00",
+    "season_time": "Горнолыжный сезон в ГК «Губаха» довольно продолжительный, начинается он в ноябре и длится до апреля. Умеренно-континентальный климат и непосредственная близость Уральских гор создают прекрасные условия для катания — склоны гор покрываются снегом уже к середине осени, а к концу зимы толщина снежного покрова может достигать 1 м.\r\n\r\nСамым холодным месяцем является январь — столбики термометров нередко опускаются до -15 градусов по Цельсию. В последние годы отмечается заметное потепление климата, что делает катание со склонов горы Крестовой более комфортным, но, благодаря усилиям сотрудников ГК «Губаха», никак не сказывается на качестве горнолыжных трасс.",
+    "is_published": 1,
+    "date_created": "2024-02-21T07:03:30.825Z",
+    "date_updated": "2024-02-28T17:21:29.742Z",
+    "location": "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A8ad9b2e79d8adeb0e0845090b383b7a1b906ac25ae7933fbe51044cb1718d6cc&amp;width=100%25&amp;height=640&amp;lang=ru_RU&amp;scroll=true",
+    "photo": "photos/mounts/gubaha/губаха.png",
+    "tracks_img": "photos/mounts/gubaha/изображение_2024-02-27_230157838.png",
+    "weather": "https://forecast7.com/en/58d8457d55/gubakha/",
+    "red": 2,
+    "green": 1,
+    "black": 1,
+    "blue": 3,
+    "lift_baby": 0,
+    "lift_bugel": 3,
+    "lift_chair": 0,
+    "lift_cabin": 0,
+    "link": "https://go-gu.ru",
+    "cat": 1,
+    "resort": null,
+    "author": null,
+    "tags": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      11
+    ]
+  }
+},
+{
+  "model": "appmountain.mountains",
+  "pk": 8,
+  "fields": {
+    "title": "Абзаково",
+    "slug": "abzakovo",
+    "description": "Посреди живописных пейзажей Урала выросла настоящая мини Швейцария с большим количеством шале и домиков в альпийском стиле. Катание в Абзаково комфортное и несложное, трассы постоянно подготавливаются ратраками и нет экстремальных уклонов. В Абзаково южно-уральский климат с преобладанием ясных солнечных дней и чистым воздухом.",
+    "prices": "Цена актуальна на: 27.02.24\r\nбла-бла",
+    "tracks": "Трассы всех категорий, включая 4 трассы для слалома и слалома-гиганта, имеющие FIS сертификаты (из них 6,5 км с искусственным заснеживанием). В горнолыжном центре организован прокат инвентаря и служба инструкторов.\r\nДля начинающих:\r\n\r\nТрасса № 1 — зеленая — Безопасная трасса для начинающих;\r\nТрасса № 5а — зеленая — Трасса для начинающих лыжников;\r\nТрасса № 7 — зеленая — Трасса для начинающих лыжников;\r\nТрасса № 9 — зеленая — Учебная трасса;\r\nТрасса № 10 — зеленая — Трасса для начинающих лыжников;\r\nТрасса № 12 — зеленая — Обзорная трасса (подойдет для большинства лыжников);\r\nТрасса № 13 — зеленая — Безопасная трасса (подойдет для большинства лыжников).\r\nДля подготовленных:\r\n\r\nТрасса № 5 — синяя — Универсальная трасса — длинная и широкая, меняет наклон;\r\nТрасса № 8 — синяя — Для детей от 4 до 12 лет;\r\nТрасса № 11 — синяя — Безопасная трасса (подойдет для большинства лыжников).\r\nДля экспертов:\r\n\r\nТрасса № 2 — красная — Для спортсменов среднего уровня;\r\nТрасса № 3 — красная — Спортивная трасса для опытных лыжников;\r\nТрасса № 4 — красная — Спортивная трасса для опытных лыжников.\r\nЕсть трасса для занятия могулом и 4 трассы для слалома (в том числе — слалома-гиганта), часть трасс освещается по вечерам. «Черных» трасс в «Абзаково» нет, но есть сложные участки на красных и синих трассах, преодоление которые заставит вспомнить все навыки горнолыжного катания, полученные ранее.\r\n\r\nСклоны курорта будут интересны поклонникам фрирайда, снежная целина не оставит их равнодушными. Любители равнинного катания могут воспользоваться специально оборудованными трассами для беговых лыж.",
+    "work_time": "График работы ППКД №5\r\n(экскурсионная, кафе \"Веста\") \r\nЕжедневно, 09.00 – 16.00\r\nВторник, профилактика\r\n\r\nГрафик работы БКД 1\r\nЕжедневно, 09.00 – 20.00\r\nЧетверг, 13.00 – 20.00\r\nПятница суббота, 09.00 – 22.00\r\nВоскресенье, 09.00 – 18.00\r\n\r\nГрафик работы ППКД №7\r\n(экскурсионная, кафе \"Веста\") \r\nЕжедневно, 10.00 – 18.00\r\nСреда, профилактика\r\n\r\nГрафик работы БКД 3\r\nЕжедневно, 09.00 – 20.00\r\nВоскресенье, 09.00 – 18.00\r\n\r\nГрафик работы БКД 4 \r\nЕжедневно, 09.00 – 20.00\r\nПятница суббота, 09.00 – 22.00\r\nВоскресенье, 09.00 – 18.00",
+    "season_time": "Курорт «Абзаково» расположен на склонах южно-уральского хребта Крыкты-Тау, надежно укрытого от ветра горным массивом Шайтан. Такое уютное расположение помогает дольше сохранить горнолыжные трассы — открываются они в конце октября или начале ноября, а кончается сезон только в мае. Низкая влажность воздуха позволяет комфортно переносить морозы, а они здесь довольно суровы — в январе и феврале столбики термометров почти не поднимаются выше -16 °C, да и в декабре лишь на пару градусов теплее.\r\n\r\nС установлением стабильных плюсовых температур (в конце апреля или начале мая) курорт переходит на летний режим работы, открывая сезон картинга, сплавов по рекам, пеших прогулок, поездок на лошадях, экскурсий по Южному Уралу и освоения маунтибайка.",
+    "is_published": 1,
+    "date_created": "2024-02-21T07:03:48.153Z",
+    "date_updated": "2024-02-28T17:23:50.623Z",
+    "location": "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A150e8d3e5cb91512508fd8522284cae48de3b7df85aadf53e48b6e058e7a1907&amp;width=100%25&amp;height=640&amp;lang=ru_RU&amp;scroll=true",
+    "photo": "photos/mounts/abzakovo/logo_UZWIl2O.png",
+    "tracks_img": "photos/mounts/abzakovo/scheme_lf9w8yO_oYDzUxL.png",
+    "weather": "https://forecast7.com/ru/53d8358d60/abzakovo/",
+    "red": 3,
+    "green": 5,
+    "black": 0,
+    "blue": 6,
+    "lift_baby": 1,
+    "lift_bugel": 6,
+    "lift_chair": 1,
+    "lift_cabin": 0,
+    "link": "https://abzakovo.com/glc/",
+    "cat": 1,
+    "resort": 3,
+    "author": null,
+    "tags": [
+      1,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  }
+},
+{
+  "model": "appmountain.mountains",
+  "pk": 9,
+  "fields": {
+    "title": "Уктус",
+    "slug": "uktus",
+    "description": "Уктусские горы находятся в южной части Екатеринбурга. Спортивный комплекс «Уктус» включает в себя горнолыжный центр, лыжеролерную трассу и другие спортивные сооружения. В летний период СК «Уктус» — лесопарк, площадь которого составляет 424 гектара. Среди вековых сосен (средний возраст — 104 года) можно наслаждаться свежим и чистым воздухом.\r\n\r\nДля любителей зимнего активного отдыха имеется прекрасная возможность покататься на гореных лыжах или сноуборде на четырех подготовленных и оснащенных горнолыжных трассах. Кроме традиционных лыж и сноубордов, на горе Уктус можно прокатиться на бублике или снегоходе, арендовать шатер или беседку, а также посетить Хаски-город или провести праздник или корпоратив в кафе «Фэмили Хаус». Летом гости могут воспользоваться теннисными кортами и футбольными полями с искусственным покрытием, площадками для стритбола, прокатом горных велосипедов, роликов, детских электромобилей. На территории СК «Уктус» есть беседки с мангалами, работает кафе.\r\n\r\nТрассы оборудованы системами искусственного освещения, что позволяет кататься в вечернее время. Горнолыжный комплекс расположен в черте города, с одной стороны, до него легко добраться, с другой — всегда много народу.",
+    "prices": "ЦЕНЫ",
+    "tracks": "Четыре горнолыжные трассы длиной до 750 м, с перепадом высот 100 м («Малый» (учебный) склон — длина 450 метров, перепад высот 54 метра. Гора «Лысая» — длина 400 метров, перепад высот 85 метров. «Объездная» — длина 750 метров, перепад высот 85 метров. «Новый» склон — длина 700 метров, перепад высот 100 метров.)\r\n\r\nТрассы подойдут всем, они имеют разный перепад высот от 54 до 100 метров. Они в отличном состоянии, поскольку за ними следят с помощью снегоуплотнительной техникой и с использованием системы искусственного оснежения.\r\n\r\nЗарядиться адреналином можно в сноупарке с серией прыжковых фигур. Здесь располагаются два трамплина, высотой 8 и 11 метров, перила и 6-метровый спайн. Далее идут кинк и рэйл для джиббинга, а в конце трассы находится прямая труба.",
+    "work_time": "",
+    "season_time": "Комплекс оснащен системой искусственного снегообразования, ее используют для оснежнения трасс при отсутствии естественного снежного покрова, что позволяет открыть сезон уже в начале ноября. Закрываются склоны в апреле, когда устанавливаются стабильные плюсовые температуры.\r\n\r\nНаличие искусственного оснежения объясняется не только желанием как можно раньше открыть горнолыжный сезон, но и нестабильностью местной погоды — в разгар зимы морозы могут смениться оттепелью и дождями, смывающими снежный покров. В среднем, температуры зимних месяцев держатся в районе -11-12 °C, почти не опускаясь ниже -15 °C.",
+    "is_published": 1,
+    "date_created": "2024-02-21T08:05:23.756Z",
+    "date_updated": "2024-02-28T16:25:04.771Z",
+    "location": "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Abbbd7b7529bcfd8432b8754646470e20e9b84b26f7782fdff49562aa4b75c867&amp;width=550&amp;height=400&amp;lang=ru_RU&amp;scroll=true",
+    "photo": "photos/mounts/uktus/изображение_2024-02-15_154930593.png",
+    "tracks_img": "photos/mounts/uktus/изображение_2024-02-27_225724544.png",
+    "weather": "https://forecast7.com/ru/56d8460d61/yekaterinburg/",
+    "red": 2,
+    "green": 1,
+    "black": 0,
+    "blue": 1,
+    "lift_baby": 0,
+    "lift_bugel": 4,
+    "lift_chair": 1,
+    "lift_cabin": 0,
+    "link": "uktus.ural.ski/",
+    "cat": 2,
+    "resort": null,
+    "author": null,
+    "tags": [
+      2,
+      3,
+      6
+    ]
+  }
+},
+{
+  "model": "appmountain.mountains",
+  "pk": 10,
+  "fields": {
+    "title": "Теплая",
+    "slug": "teplaya",
+    "description": "В 50 км от Екатеринбурга расположен горнолыжный комплекс «Гора Теплая». Первоуральск находится в 5 км от спорткомплекса — это расстояние можно легко преодолеть на местном автобусе от ж/д станции Первоуральска. Комплекс расположен неподалеку от красивой уральской речки Чусовая прямо на вершине горы Теплая.\r\n\r\nВысота горы Теплая — 446,4 метра.\r\nВозвышенность не случайно получила такое название: она расположена на южной и юго-западной стороне в скрытом от ветра месте, именно поэтому ее когда-то, много лет назад прозвали «теплой». За отсутствие ветра ее очень любят лыжники, которые приезжают сюда снова и снова.\r\n\r\nГорнолыжный комплекс «Гора Теплая» рассчитан скорее на однодневное катание, но здесь сделано все для того, чтобы это катание запомнилось вам надолго и оставило неизгладимые впечатления. Вы можете выбрать себе одну из четырех трасс длиной 450, 500, 550 и 850 м с перепадом до 135 м. Собственно, все трассы ограждены от холодного северного ветра, что, безусловно, сделает катание приятным и легким.",
+    "prices": "",
+    "tracks": "Все 4 трассы горнолыжного комплекса оснащены современным оборудованием для комфортного катания. Безопасная и удобная трасса «Учебная» протяженностью 450 м подойдет для начинающих лыжников. Трасса «Лесная» с перепадом высот до 120 м, проходящая через лесополосу, тянется на 850 м и является самой длинной трассой «Горы Теплой». Самой популярной является трасса «Центральная» — ее длина составляет 500 м, зато перепад высот — до 130 м. Для любителей острых ощущений, профессионалов в лыжном спорте, предусмотрена трасса «Экстремальная», на которой много поворотов и изгибов, а перепад высот достигает 135 м.\r\n\r\nВ спорткомплексе предусмотрена отдельная трасса для любителей «бубликов», естественно, со специальным подъемником. Все трассы регулярно обрабатываются ратракерами, чтобы обезопасить катание по снегу. Система искусственного снегообразования делает возможным катание с ноября по апрель. Фактически сезон здесь продолжается около 5 месяцев.",
+    "work_time": "Вт-Пт: с 14:00 до 22:00.\r\nСб-Вс: с 10:00 до 22:00.",
+    "season_time": "",
+    "is_published": 1,
+    "date_created": "2024-02-21T08:08:58.009Z",
+    "date_updated": "2024-02-28T17:20:45.854Z",
+    "location": "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Ac6098ed4d2df7a872f20d50bf884560a849d3634c944672e5011efc51d1f044d&amp;width=100%25&amp;height=640&amp;lang=ru_RU&amp;scroll=true",
+    "photo": "photos/mounts/teplaya/теплая.png",
+    "tracks_img": "photos/mounts/teplaya/изображение_2024-02-27_225517208.png",
+    "weather": "https://forecast7.com/en/56d9059d95/pervouralsk/",
+    "red": 2,
+    "green": 1,
+    "black": 1,
+    "blue": 1,
+    "lift_baby": 0,
+    "lift_bugel": 3,
+    "lift_chair": 0,
+    "lift_cabin": 0,
+    "link": "https://teplaya.ru",
+    "cat": 2,
+    "resort": null,
+    "author": null,
+    "tags": [
+      3,
+      4,
+      5,
+      6,
+      9
+    ]
+  }
+},
+{
+  "model": "appmountain.mountains",
+  "pk": 11,
+  "fields": {
+    "title": "Лиственная",
+    "slug": "listvennaya",
+    "description": "Горнолыжный развлекательный комплекс «Гора Лиственная» расположен неподалеку от Екатеринбурга, в живописном месте окруженном прекрасными хвойными и лиственными лесами. На склонах горы имеются горнолыжные трасы разной степени сложности, сноу-парк.\r\n\r\nВысота горы Лиственная — 306,3 метра.\r\nЛюбители активного отдыха могут покаться не только на горных лыжах или сноуборде, но и на коньках, сноутюбинге, а также провести время в пикниковой зоне или заняться другими видами развлечений.\r\n\r\nНа курорте работают опытные инструкторы и внимательный персонал. Горнолыжный развлекательный комплекс «Гора Лиственная» круглогодичный курорт и разнообразный отдых на территории комплекса возможен и летом.",
+    "prices": "prices",
+    "tracks": "Различная степень сложности трасс и их профессиональная направленность привлекает на «Гору Лиственная» не только начинающих, но и опытных лыжников и сноубордистов.\r\n\r\nТрасса «Фассадная» — длинной 200 м\r\n\r\nПо сложности относиться к категории зеленых трасс. Расчитана для начинающих горнолыжников и сноубордистов, идеально подходит для обучения с интруктором. Здесь же находиться площадка первого часа катания с безобасным выкатом самопроизвольной остановки.\r\n\r\nТрасса «SnowPark» — длинной 150 м, перепад высот 70,5 м\r\n\r\nПредназначена для профессионалов, любителей направления школы NewScool и Snowboaring Freestyle.\r\n\r\nВ сезоне 2009/10 планируется оборудоваться трассу трамплинами, рейлами и другими уложняющими элементами.\r\n\r\nТрасса «Клубная» № 2 — длинной 540 м, перепад высот 70,5 м, ширина — 33,5 м, угол наклона: 9 градусов.\r\n\r\nПо сложности относится к категории «синих» трасс, что позволяет организовывать тренировки для любителей спортивного катания и детей спортсменов, с утановкой трасс для дисциплин специального и паралельного слалома.\r\n\r\nТюбинговая трасса длинной 200 м\r\n\r\nПодарит удовольствие для любителей катания на «ватрушках». Трасса оборудована специальной канатной дорожкой.\r\n\r\nТакже на горнолыжном курорте «Лиственная» оборудованы две кольцевые трассы для катания на беговых лыжах, общая длина которых составляет около 8 километров. Пользование этими маршрутами является бесплатным.",
+    "work_time": "Среда — пятница: 14:00—22:00\r\nСуббота — воскресенье: 10:00—22:00",
+    "season_time": "Сезон зимнего отдыха открывается в ноябре и продолжается до апреля.",
+    "is_published": 1,
+    "date_created": "2024-02-21T08:24:49.300Z",
+    "date_updated": "2024-02-28T17:25:53.599Z",
+    "location": "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A49ee210ec30433786bcc5b7da2b8da0d3be132602f4076ffeb3025a328f8de9a&amp;width=100%25&amp;height=640&amp;lang=ru_RU&amp;scroll=true",
+    "photo": "photos/mounts/listvennaya/изображение_2024-02-21_132446857.png",
+    "tracks_img": "",
+    "weather": "https://forecast7.com/en/56d9160d80/beryozovsky/",
+    "red": 0,
+    "green": 1,
+    "black": 0,
+    "blue": 2,
+    "lift_baby": 0,
+    "lift_bugel": 4,
+    "lift_chair": 0,
+    "lift_cabin": 0,
+    "link": "https://listvennaya96.ru",
+    "cat": 3,
+    "resort": null,
+    "author": null,
+    "tags": [
+      4,
+      6
+    ]
+  }
+},
+{
+  "model": "appmountain.mountains",
+  "pk": 12,
+  "fields": {
+    "title": "Солнечная Долина",
+    "slug": "solnechnaya-dolina",
+    "description": "Горнолыжный центр «Солнечная долина» расположен на Южном Урале, в 10 км от г. Миасс, среди живописных лесов и голубых озер. Назвали его так недаром: трасса на юго-западном склоне горы Известной хорошо освещается солнцем и защищена от холодных ветров.\r\n\r\nГостям курорта не будет скучно ни зимой, ни летом. Любителям горных лыж и сноуборда доступны более десяти трасс различной категории сложности, остановиться можно в гостиничном комплексе, отдохнуть в сети ресторанов.\r\n\r\nЧасть трасс имеет сертификаты FIS, на них проводятся соревнования по фристайлу и в других лыжных дисциплинах. Например, в «Солнечной долине» постоянно проводится соревнование за Кубок Губернатора Челябинской области.\r\n\r\nКурортная инфраструктура комплекса развитая, включает несколько отелей и гостиниц, кафе и рестораны, дополнительные развлекательные и спортивные площадки для детей и взрослых — зимний каток, снегоходы, бани и т. д.",
+    "prices": "ЦЕНЫ",
+    "tracks": "Из 11 трасс «Солнечной долины» 6 относятся к категории «красных», 4 «зеленых» и лишь 1 «синяя». Среди них есть ски-кросс, учебный сноу-парк и трасса слоуп-стайла. Длина трасс варьируется от 300 до 1250 м, перепад высот достигает 230 м. Трассы освещены в вечернее время.\r\n\r\nТрассы обрабатываются снегоуплотнительной техникой «Kaesbohrer». Также на территории комплекса находится огороженная и максимально безопасная часть склона для катания на сноутюбингах.",
+    "work_time": "пн-вскр: 10:00 — 21:00",
+    "season_time": "Кататься на лыжах и сноуборде можно с ноября по апрель. Средняя температура в зимние месяцы — от -12 °C до -14 °C. Снега выпадает более чем достаточно, а от неприятных ветров курортную зону защищает горный хребет Ильмен-Тау.",
+    "is_published": 1,
+    "date_created": "2024-02-21T08:25:49.832Z",
+    "date_updated": "2024-02-28T17:24:50.104Z",
+    "location": "https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Acd44c40d219fe7bfe0181a08a7a797f3c29bfc0a08f5705e43b0db2f379f6608&amp;width=100%25&amp;height=640&amp;lang=ru_RU&amp;scroll=true",
+    "photo": "photos/mounts/solnechnaya-dolina/изображение_2024-02-21_132548935.png",
+    "tracks_img": "photos/mounts/solnechnaya-dolina/изображение_2024-02-27_225929089.png",
+    "weather": "https://forecast7.com/en/55d0659d91/syrostan/",
+    "red": 6,
+    "green": 3,
+    "black": 1,
+    "blue": 4,
+    "lift_baby": 0,
+    "lift_bugel": 6,
+    "lift_chair": 1,
+    "lift_cabin": 0,
+    "link": "https://dolina.su",
+    "cat": 2,
+    "resort": 1,
+    "author": null,
+    "tags": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      10,
+      11
+    ]
+  }
+},
+{
+  "model": "appmountain.category",
+  "pk": 1,
+  "fields": {
+    "name": "Отлично",
+    "slug": "otlichno"
+  }
+},
+{
+  "model": "appmountain.category",
+  "pk": 2,
+  "fields": {
+    "name": "Похвально",
+    "slug": "pohvalno"
+  }
+},
+{
+  "model": "appmountain.category",
+  "pk": 3,
+  "fields": {
+    "name": "Есть к чему стремиться",
+    "slug": "est_k_chemy_strmitsya"
+  }
+},
+{
+  "model": "appmountain.tagmountain",
+  "pk": 1,
+  "fields": {
+    "tag": "фрирайд",
+    "slug": "freeride"
+  }
+},
+{
+  "model": "appmountain.tagmountain",
+  "pk": 2,
+  "fields": {
+    "tag": "сноупарк",
+    "slug": "snowpark"
+  }
+},
+{
+  "model": "appmountain.tagmountain",
+  "pk": 3,
+  "fields": {
+    "tag": "красные",
+    "slug": "red"
+  }
+},
+{
+  "model": "appmountain.tagmountain",
+  "pk": 4,
+  "fields": {
+    "tag": "синие",
+    "slug": "blue"
+  }
+},
+{
+  "model": "appmountain.tagmountain",
+  "pk": 5,
+  "fields": {
+    "tag": "черные",
+    "slug": "black"
+  }
+},
+{
+  "model": "appmountain.tagmountain",
+  "pk": 6,
+  "fields": {
+    "tag": "зеленые",
+    "slug": "green"
+  }
+},
+{
+  "model": "appmountain.tagmountain",
+  "pk": 7,
+  "fields": {
+    "tag": "маршруты > 1500",
+    "slug": "1way__gt1500"
+  }
+},
+{
+  "model": "appmountain.tagmountain",
+  "pk": 8,
+  "fields": {
+    "tag": "маршруты > 2500",
+    "slug": "1way__gt2500"
+  }
+},
+{
+  "model": "appmountain.tagmountain",
+  "pk": 9,
+  "fields": {
+    "tag": "разница высоты > 100",
+    "slug": "hightdifference__gt100"
+  }
+},
+{
+  "model": "appmountain.tagmountain",
+  "pk": 10,
+  "fields": {
+    "tag": "разница высоты > 200",
+    "slug": "hightdifference__gt200"
+  }
+},
+{
+  "model": "appmountain.tagmountain",
+  "pk": 11,
+  "fields": {
+    "tag": "кресельный подъемник",
+    "slug": "chairlift"
+  }
+},
+{
+  "model": "appmountain.resort",
+  "pk": 1,
+  "fields": {
+    "name": "Солнечная долина",
+    "stars": 4,
+    "slug": "solnechnaya-dolina",
+    "description": "Курортная инфраструктура комплекса развитая, включает несколько отелей и гостиниц, кафе и рестораны, дополнительные развлекательные и спортивные площадки для детей и взрослых — зимний каток, снегоходы, бани и т. д."
+  }
+},
+{
+  "model": "appmountain.resort",
+  "pk": 2,
+  "fields": {
+    "name": "Ежовая",
+    "stars": 3,
+    "slug": "ezhovaya",
+    "description": "Комплекс включает горнолыжные трассы, сноупарк, гостиницы, парк развлечений для детей «Мультиеж», кафе и рестораны. Возле бара «Орлиное гнездо» находится смотровая площадка, с которой открывается замечательный вид на Кировград, Верхний Тагил и другие окрестные горы. На территории ГЛЦ «Ежовая» работает автостоянка, прокат горнолыжной снаряги. Совсем недалеко от склонов (1 км) оработает отель «Седьма поляна»."
+  }
+},
+{
+  "model": "appmountain.resort",
+  "pk": 3,
+  "fields": {
+    "name": "Абзаково",
+    "stars": 5,
+    "slug": "abzakovo",
+    "description": "Горнолыжный курорт «Абзаково» - это не просто гостиничный комплекс, но и спортивно-оздоровительный центр с развитой инфраструктурой для взрослых и детей любых возрастов:\r\nгорнолыжный центр;\r\nаквапарк «Аквариум»;\r\nзоопарк под открытым небом;\r\nсауны;\r\nсеть кафе, ресторан и блинные;\r\nлетний банкетный зал;\r\nразвлекательный комплекс «Non-Stop» (боулинг, бильярд, детская игровая комната и т.п);\r\nконференц-залы до 250 чел;\r\nпрокат спортинвентаря;\r\nцентр биатлона;\r\nпикниковые поляны;\r\nпляжная зона «Остров»;\r\nХаски-город.\r\nЕжегодно в «Абзаково» съезжаются гости со всех регионов России и соседних государств."
+  }
+},
+{
+  "model": "appusers.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$utplHrvuNjyV31wj6Qe7vh$FFOfPDN42Q5ZTJSYQOVdewh25E5bMx1ZZvZykdpPbvw=",
+    "last_login": "2024-04-12T06:53:26.470Z",
+    "is_superuser": true,
+    "username": "root",
+    "first_name": "",
+    "last_name": "",
+    "email": "root@mail.ru",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-02-21T06:19:12.696Z",
+    "photo": "users/root/изображение_2024-02-28_174325450.png",
+    "date_birth": "1924-01-01T00:00:00Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "appusers.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$27h39Zas6GrXzcMqtQtbMg$/xvZ8kUq4DTh0qraGTOR0ZUnX11lgjpxl69AB/Xle3s=",
+    "last_login": "2024-02-28T12:43:51.776Z",
+    "is_superuser": false,
+    "username": "user1",
+    "first_name": "",
+    "last_name": "",
+    "email": "user1@mail.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-02-28T12:16:06.808Z",
+    "photo": "users/user1/snowboarding.png",
+    "date_birth": "1924-01-07T00:00:00Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
